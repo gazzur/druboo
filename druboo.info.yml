@@ -1,0 +1,58 @@
+name: Druboo
+type: profile
+description: 'Drupal 8 with Bootstrap and starter modules.'
+version: VERSION
+core: 8.x
+
+dependencies:
+  - admin_toolbar
+  - admin_toolbar_tools
+  - automated_cron
+  - block
+  - block_class
+  - block_content
+  - breakpoint
+  - ckeditor
+  - comment
+  - config
+  - contact
+  - contextual
+  - ctools
+  - datetime
+  - dblog
+  - devel
+  - dynamic_page_cache
+  - editor
+  - field
+  - field_ui
+  - file
+  - filter
+  - history
+  - imce
+  - image
+  - link
+  - menu_admin_per_menu
+  - menu_ui
+  - menu_link_content
+  - menu_trail_by_path
+  - node
+  - options
+  - page_cache
+  - path
+  - pathauto
+  - responsive_menu
+  - search
+  - shortcut
+  - system
+  - taxonomy
+  - text
+  - token
+  - toolbar
+  - user
+  - views_slideshow
+  - views_slideshow_cycle
+  - views_ui
+  - views 
+themes:
+  - bootstrap
+  - seven

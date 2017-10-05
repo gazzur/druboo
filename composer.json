@@ -25,6 +25,6 @@
         "drupal/pathauto": "^1.0",
         "drupal/responsive_menu": "^2.4",
         "drupal/token": "^1.0",
-        "drupal/views_slideshow": "^4.5",
+        "drupal/views_slideshow": "^4.5"
     }
 }

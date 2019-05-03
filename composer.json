@@ -15,17 +15,17 @@
         }
     ],
     "require": {
-        "drupal/admin_toolbar": "^1.19",
-        "drupal/block_class": "1.x-dev",
-        "drupal/ctools": "^3.0",
-        "drupal/devel": "^1.0",
-        "drupal/imce": "^1.5",
+        "drupal/admin_toolbar": "^1.26",
+        "drupal/block_class": "1.0",
+        "drupal/ctools": "^3.2",
+        "drupal/devel": "^2.1",
+        "drupal/imce": "^1.7",
         "drupal/menu_trail_by_path": "^1.1",
-        "drupal/menu_admin_per_menu": "1.x-dev",
-        "drupal/pathauto": "^1.0",
-        "drupal/responsive_menu": "^2.4",
-        "drupal/token": "^1.0",
-        "drupal/views_slideshow": "^4.5",
-        "drupal/bootstrap": "^3.6"
+        "drupal/menu_admin_per_menu": "1.0",
+        "drupal/pathauto": "^1.4",
+        "drupal/responsive_menu": "^2.6",
+        "drupal/token": "^1.5",
+        "drupal/views_slideshow": "^4.6",
+        "drupal/bootstrap": "^3.17"
     }
 }
